@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vaca Verde</string>
+    <string name="title">Vaca Verde Restaurante Vegano</string>
+    <string name="address">Rua Alvorada, 45, Vila Olímpia, São Paulo, SP, 04550-002 – Brasil</string>
+    <string name="website">http://vacaverde.com.br</string>
+    <string name="about_us">Sobre</string>
+    <string name="about_us_content">Restaurante Vegano Vaca Verde® \nOferece comida brasileira e 100% vegana de segunda a sexta-feira das 11:30h às 15;30h.</string>
+</resources>
